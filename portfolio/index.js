@@ -129,6 +129,11 @@ window.addEventListener("scroll",function()
       fillbar(".skill3",55);
       fillbar(".skill4",75);
       fillbar(".skill5",80);
+      fillbar(".skill6",50);
+      fillbar(".skill7",30);
+      fillbar(".skill8",60);
+      
+
    }
 
    if(value>710 && called2==0 )
